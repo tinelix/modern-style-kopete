@@ -1,0 +1,196 @@
+.KopeteInMessage {
+	width: 80%;
+	max-width: 448px;
+	overflow: auto;
+}
+
+.KopeteOutMessage {
+	width: 80%;
+	max-width: 448px;
+	float: right;
+}
+
+.KopeteMessageBlock
+{
+	margin: 6px 6px 6px 6px;
+	background-color: #323232;
+	color: #ffffff;
+	border-radius: 5px;
+	padding: 6px;
+	align: middle;
+}
+
+.KopeteMessageBody
+{
+	margin-bottom: 4px;
+}
+
+.IncomingMessage
+{
+	padding-left: 1ex;
+	padding-right: 1ex;
+	padding-top: 4px;
+}
+
+.NextIncomingMessage
+{
+	padding-top: 4px;
+}
+
+.inUserPicture
+{
+	height: 48px;
+	margin-top: 0.25em;
+	margin-left: 0.2em;
+	margin-right: 1ex;
+	border-radius: 100px;
+	float: left;
+}
+
+.inStatusIcon
+{
+	float: left;
+	padding-right: 1ex;
+}
+
+.inTime
+{
+	padding-left: 1ex;
+	padding-right: 4px;
+	opacity: 0.5;
+	color: #55ffffff;
+	padding-top: 4px;
+	float: right;
+}
+
+.inMetacontact
+{
+	padding-left: 1ex;
+	font-weight: bold;
+	color: #66d466;
+}
+
+.IncomingAction
+{
+	padding-left: 1ex; 
+	padding-right: 1ex; 
+}
+.inActionIcon
+{
+	float: left;
+	margin-right: 5px;
+}
+
+.inActionMetacontact
+{
+	margin-left: 5px;
+	font-weight: bold;
+}
+
+.inActionMessage
+{
+
+}
+
+.OutgoingMessage
+{
+	padding-left: 1ex;
+	padding-right: 1ex;
+	padding-top: 0.25em;
+	padding-bottom: 4px;
+}
+
+.NextOutgoingMessage
+{
+	padding-top: 0.25em;
+	padding-bottom: 4px;
+}
+
+.outUserPicture
+{
+	height: 48px;
+	margin-top: 0.2em;
+	margin-left: 0.2em;
+	margin-right: 1ex;
+	border-radius: 100px;
+	float: right;
+}
+
+.outStatusIcon
+{
+	float: left;
+	padding-right: 1ex;
+}
+
+.outTime
+{
+	padding-left: 1ex;
+	padding-top: 4px;
+	padding-right: 4px;
+	opacity: 0.5;
+	padding-top: 4px;
+	color: #55ffffff;
+	float: right;
+}
+
+.outMetacontact
+{
+	padding-left: 1ex;
+	font-weight: bold;
+	color: #ff6666;
+}
+
+.OutgoingAction
+{
+	padding-left: 1ex; 
+	padding-right: 1ex; 
+}
+.outActionIcon
+{
+	float: left;
+	padding-right: 1ex;
+}
+.outActionMetacontact
+{
+	padding-left: 1ex;
+	font-weight: bold;
+}
+.outActionMessage
+{
+}
+
+.InternalMessage
+{
+	text-align: left;
+	padding-left: 1ex;
+	padding-right: 1ex;
+	padding-top: 4px;
+	float: left;
+}
+
+.InternalMessageHeaderTime
+{
+	padding-left: 1ex;
+	padding-top: 4px;
+	padding-right: 4px;
+	opacity: 0.5;
+	color: #55ffffff;
+	float: right;
+}
+
+.systemLogo {
+	vertical-align: middle;
+	margin-left: 6px;
+	float: left;
+}
+
+.outState
+{
+	overflow: hidden;
+	float: right;
+	height: 16px;
+}
+
+div {
+	overflow: auto;
+}

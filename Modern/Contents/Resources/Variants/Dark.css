@@ -1,0 +1,49 @@
+.KopeteMessageBlock
+{
+	margin: 6px 6px 6px 6px;
+	background-color: #323232;
+	color: #ffffff;
+	border-radius: 5px;
+	padding: 6px;
+}
+
+.inTime
+{
+	padding-left: 1ex;
+	padding-right: 4px;
+	opacity: 0.5;
+	color: #55ffffff;
+	padding-top: 4px;
+	float: right;
+}
+
+.inActionMetacontact
+{
+	margin-left: 5px;
+	font-weight: bold;
+}
+
+.inMetacontact
+{
+	padding-left: 1ex;
+	font-weight: bold;
+	color: #66d466;
+}
+
+.outTime
+{
+	padding-left: 1ex;
+	padding-top: 4px;
+	padding-right: 4px;
+	opacity: 0.5;
+	padding-top: 4px;
+	color: #55ffffff;
+	float: right;
+}
+
+.outMetacontact
+{
+	padding-left: 1ex;
+	font-weight: bold;
+	color: #ff6666;
+}
