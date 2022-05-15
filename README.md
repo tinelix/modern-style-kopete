@@ -9,4 +9,6 @@ Modern style - style is very similar to the style of modern IM (such as Telegram
 <br><sup>for KDE 3 - /usr/share/apps/kopete/styles/</sup>
 <br>3. Run Kopete client.
 <br>4. Open settings > "Appearance" item.
-<p><p><h2>Links</h2><a href="https://tinelix.github.io">by Tinelix</a>
+<p><h2>License</h2>
+<p>GNU General Public License 2.0 or later version
+<p><h2>Links</h2><a href="https://tinelix.github.io">by Tinelix</a>
